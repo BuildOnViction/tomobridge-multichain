@@ -1,3 +1,11 @@
 .multichain-bg {
     background: linear-gradient(to right, rgb(115, 76, 226), rgb(96, 107, 251));
 }
+
+.tomobridge-bg {
+    background: black;
+}
+
+.tomobridge-text {
+    color: #00E8B5;
+}
