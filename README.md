@@ -1,5 +1,7 @@
 ETHEREUM Master contract của bridge cũ: https://etherscan.io/address/0x43212005a9ed2dab40b7901662965fb282664091
+
 TOMOE: https://etherscan.io/token/0x05d3606d5c81eb9b7b18530995ec9b29da05faba
+
 TOMOE-Master contract: https://tomoscan.io/address/0x8240651515872eb0c964942c8A019d48A0D8b8e7
 
 - Multichain
